@@ -1,2 +1,2 @@
 @echo off
-doest his work
+echo doest his work
